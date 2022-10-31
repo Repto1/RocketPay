@@ -27,4 +27,4 @@ Rocketpay it's a compontent that simulates the fillout form of a credit card, wh
 ## 🔖 Layout
 
 You can view the layout with [THIS LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). It's necessary to have a acount in [Figma](https://figma.com) to acess it.
-tnks ♥ Rocketseat ♥
+tnks ♥  Rocketseat  ♥
