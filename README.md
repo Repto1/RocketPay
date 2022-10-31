@@ -12,7 +12,7 @@ A webapp that simulates the insertion of credentials in a credit card.
 
 ## 🚀 Technologies
 
-This project had been desenvolved with the following technologies:
+This project had been developed with the following technologies:
 
 - HTML & CSS
 - JavaScript & JSON
