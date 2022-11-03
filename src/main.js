@@ -28,7 +28,7 @@ const securityCodeMasked = IMask(securityCode, securityCodePattern)
 
 const nameHolder = document.querySelector("#card-holder")
 const nameHolderPattern = {
-  mask: /^\p{L} +$/gu,
+  mask: /^\p{L}\w+$/gu,
 }
 
 const nameHolderMasked = IMask(nameHolder, nameHolderPattern)
