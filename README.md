@@ -6,9 +6,8 @@ A webapp that simulates the insertion of credentials in a credit card.
 
 
 
-<p align="center">
-  [print](https://cdn.discordapp.com/attachments/1035659746906230927/1037549895126626334/Screenshot_20221102_231159.png)
-</p>
+![image](https://cdn.discordapp.com/attachments/1035659746906230927/1037549895126626334/Screenshot_20221102_231159.png)
+
 
 ## 🚀 Technologies
 
