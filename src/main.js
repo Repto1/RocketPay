@@ -28,7 +28,7 @@ const securityCodeMasked = IMask(securityCode, securityCodePattern)
 
 const nameHolder = document.querySelector("#card-holder")
 const nameHolderPattern = {
-  mask: /^[a-zA-Z]+$/,
+  mask: /^[\u\l]+$/,
 }
 
 const nameHolderMasked = IMask(nameHolder, nameHolderPattern)
