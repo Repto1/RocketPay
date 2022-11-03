@@ -26,6 +26,13 @@ const securityCodePattern = {
 
 const securityCodeMasked = IMask(securityCode, securityCodePattern)
 
+const nameHolder = document.querySelector("#card-holder")
+const nameHolderPattern = {
+  mask: /\S/
+}
+
+const nameHolderMasked = IMask(nameHolder, nameHolderPattern)
+
 const expirationDate = document.querySelector("#expiration-date")
 const expirationDatePattern = {
   mask: "MM/YY",
