@@ -7,7 +7,7 @@ A webapp that simulates the insertion of credentials in a credit card.
 
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src="https://cdn.discordapp.com/attachments/1035659746906230927/1037549895126626334/Screenshot_20221102_231159.png width="100%">
 </p>
 
 ## 🚀 Technologies
