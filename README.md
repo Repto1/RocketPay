@@ -19,6 +19,7 @@ This project had been developed with the following technologies:
 - [Node & NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
+- [Vercel](https://vercel.com)
 
 ## 💻 Project
 
